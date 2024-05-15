@@ -1,3 +1,6 @@
-last played: 19:55 deploy after 56.42
+last played: 19:55 deploy after 2.00.0
 npx shadcn-ui@latest
 npm install lucide-react
+
+kinde tutorial
+login->click business->switch business
